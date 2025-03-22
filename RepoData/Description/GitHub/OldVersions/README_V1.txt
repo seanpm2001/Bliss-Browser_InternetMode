@@ -1,0 +1,1 @@
+🌳️🌐️↕️ The official source repository for Bliss Browser Internet Mode, letting Bliss Browser users switch between different Internets (WorldWideWeb, Xanadu, etc.) Not to be confused with Bliss Browser WebMode or Bliss Browser OSMode
